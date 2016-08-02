@@ -12,5 +12,9 @@ color:
     - '#160600'
 layout_spectrum: 0.6690617182757705
 name: nativalien
+navigation:
+  - name: Portfolio
+    url: www.nativalien.com
+    type: external
 title: Alien Artifaq
 description: Designed by natives

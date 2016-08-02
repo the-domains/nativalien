@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-02T03:41:51.942Z'
+datePublished: '2016-08-02T03:42:21.938Z'
 sourcePath: _posts/2016-04-15-the-ars-vr-headset-showdown-oculus-rift-vs-htc-vive.md
 inFeed: true
 isBasedOnUrl: >-
@@ -19,7 +19,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-02T03:41:51.648Z'
+dateModified: '2016-08-02T03:42:21.659Z'
 title: C.KING Originals
 app_links: []
 publisher:
@@ -29,7 +29,7 @@ description: >-
   be releasing our next collection!
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 

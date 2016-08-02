@@ -4,7 +4,7 @@
         <description><![CDATA[Alien Artifaq]]></description>
         <link>http://www.livelifted.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 06:59:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 06:59:44 GMT</lastBuildDate>
         <atom:link href="http://www.livelifted.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[C.KING Originals]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.livelifted.com/cking-originals/index.html</link>
             <guid isPermaLink="false">30f54389-2f18-42aa-b426-eb26a807e850</guid>
             <pubDate>Tue, 02 Aug 2016 06:16:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e34a0f6-7b43-4444-a190-708cd66cde8b.jpg">]]></description>
-            <link>http://www.livelifted.com/5ef22f09-5122-4512-9b6e-1f107f8f9063/index.html</link>
-            <guid isPermaLink="false">5ef22f09-5122-4512-9b6e-1f107f8f9063</guid>
-            <pubDate>Tue, 02 Aug 2016 06:59:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

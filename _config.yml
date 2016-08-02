@@ -12,6 +12,9 @@ color:
     - '#160600'
 layout_spectrum: 0.6690617182757705
 name: nativalien
-navigation: []
+navigation:
+  - name: C.KING
+    url: www.ckingdom.com
+    type: external
 title: Alien Artifaq
 description: Designed by natives

@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-02T03:44:59.261Z'
+datePublished: '2016-08-02T03:46:06.376Z'
 sourcePath: _posts/2016-04-15-the-ars-vr-headset-showdown-oculus-rift-vs-htc-vive.md
 inFeed: true
 isBasedOnUrl: >-
@@ -19,21 +19,20 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-02T03:44:59.036Z'
+dateModified: '2016-08-02T03:46:06.088Z'
 title: C.KING Originals
 app_links: []
 publisher:
   name: c.BARR
-description: >-
-  Join us September 21st 2016 at Angels Rockbar in Baltimore, MD, where we will
-  be releasing our next collection!
+description: C.KING Artist Showcase
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+C.KING Artist Showcase
 ![One of a King originals](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98277550-4364-4774-8c22-381a87f25985.jpg)
 
 # C.KING Originals

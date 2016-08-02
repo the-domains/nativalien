@@ -1,16 +1,16 @@
-typography_spectrum: 0.22545096231624484
+typography_spectrum: 0.4479308989830315
 color:
-  brandStrength: 0.022482721833512187
-  lightness: 0.3078487948514521
-  saturation: 0.4708194164559245
-  rhythmicContrast: 0.7878430911805481
+  brandStrength: 0.2273466440383345
+  lightness: 0.07603172771632671
+  saturation: 0.6902973495889455
+  rhythmicContrast: 0.9921282683499157
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-layout_spectrum: 0.6690617182757705
+    - '#354242'
+    - '#ACEBAE'
+    - '#FFFF9D'
+    - '#C9DE55'
+    - '#7D9100'
+layout_spectrum: 0.7202084604650736
 name: nativalien
 navigation:
   - name: C.KING

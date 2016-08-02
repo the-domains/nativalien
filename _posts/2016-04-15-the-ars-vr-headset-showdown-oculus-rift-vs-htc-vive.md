@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-02T03:03:47.383Z'
+datePublished: '2016-08-02T03:41:51.942Z'
 sourcePath: _posts/2016-04-15-the-ars-vr-headset-showdown-oculus-rift-vs-htc-vive.md
 inFeed: true
 isBasedOnUrl: >-
@@ -19,12 +19,11 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-02T03:03:47.198Z'
+dateModified: '2016-08-02T03:41:51.648Z'
 title: C.KING Originals
 app_links: []
 publisher:
   name: c.BARR
-  url: 'http://www.nativalien.com'
 description: >-
   Join us September 21st 2016 at Angels Rockbar in Baltimore, MD, where we will
   be releasing our next collection!
@@ -35,8 +34,9 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+![One of a King originals](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98277550-4364-4774-8c22-381a87f25985.jpg)
+
 # C.KING Originals
-![One of a King designs.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f46223ac-a3f8-45d5-b615-15b4f9421dfa.jpg)
 
 Join us September 21st 2016 at Angels Rockbar in Baltimore, MD, where we will be releasing our next collection!
 

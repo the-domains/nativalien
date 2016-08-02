@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-02T02:00:33.150Z'
+datePublished: '2016-08-02T02:34:53.300Z'
 sourcePath: _posts/2016-04-15-the-ars-vr-headset-showdown-oculus-rift-vs-htc-vive.md
 inFeed: true
 isBasedOnUrl: >-
@@ -17,30 +17,31 @@ keywords:
   - menu
   - blurrier
 related: []
-author:
-  - name: Kyle Orland
-    url: 'http://arstechnica.com/author/kyle-orland/'
-    avatar: {}
-dateModified: '2016-08-02T02:00:32.973Z'
-title: The Ars VR headset showdown-Oculus Rift vs. HTC Vive
+author: []
+via: {}
+dateModified: '2016-08-02T02:34:52.738Z'
+title: C.KING Originals
 app_links: []
 publisher:
-  url: 'http://arstechnica.com'
-  name: Ars Technica
-  favicon: 'https://cdn.arstechnica.net/favicon.ico'
-  domain: arstechnica.com
+  name: c.BARR
+  url: 'http://www.nativalien.com'
 description: >-
-  In our original reviews of the Oculus Rift and the HTC Vive, we tried very
-  hard to examine these virtual reality systems on their own merits without
-  constant comparisons to the competition. But no product exists in a vacuum.
-  After years of buildup, we're now faced with two competitive, PC-tethered VR
-  headsets hitting the market right next to each other.
+  C. KING is a clothing collection created by Baltimore born artists, Keith King
+  and c.BARR(@n8tivalien) . With the use of found objects and hand-cut stencils,
+  each garment is dyed and distressed to create a one of a kind work of
+  expression. The graphics often promote ideas about knowledge and self
+  actualization.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Ars VR headset showdown-Oculus Rift vs. HTC Vive</h1><p>In our original reviews of the Oculus Rift and the HTC Vive, we tried very hard to examine these virtual reality systems on their own merits without constant comparisons to the competition. But no product exists in a vacuum. After years of buildup, we're now faced with two competitive, PC-tethered VR headsets hitting the market right next to each other.</p><img src="http://cdn.arstechnica.net/wp-content/uploads/2016/04/viveplatform2-980x1089.jpg" /></article>
+# C.KING Originals
+![One of a King designs.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f46223ac-a3f8-45d5-b615-15b4f9421dfa.jpg)
+
+C. KING is a clothing collection created by Baltimore born artists, Keith King and [c.BARR][0]([@n8tivalien][1]) . With the use of found objects and hand-cut stencils, each garment is dyed and distressed to create a one of a kind work of expression. The graphics often promote ideas about knowledge and self actualization.
+
+[0]: http://www.cargocollective.com/cbarr "c.BARR's Portfolio"
+[1]: http://www.instagram.com/n8tivalien "c.BARR's Instagram"

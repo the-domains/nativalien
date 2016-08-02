@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-02T06:45:03.658Z'
+datePublished: '2016-08-02T06:54:44.635Z'
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-02T06:42:22.369Z'
+dateModified: '2016-08-02T06:54:44.447Z'
 title: Elzhi Cover Design
 publisher: {}
 description: "Elzhi’s Lead Poison Album is out now and it’s \uD83D\uDD25\uD83D\uDD25\uD83D\uDD25 "
-starred: false
 sourcePath: _posts/2016-08-02-elzhi-cover-design.md
+starred: true
 url: elzhi-cover-design/index.html
 _type: MediaObject
 

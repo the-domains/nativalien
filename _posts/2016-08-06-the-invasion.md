@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-07T02:56:23.671Z'
+datePublished: '2016-08-07T02:57:04.694Z'
 sourcePath: _posts/2016-08-06-the-invasion.md
 author: []
 via: {}
-dateModified: '2016-08-07T02:56:22.998Z'
+dateModified: '2016-08-07T02:57:04.243Z'
 title: The Invasion will not be Televised
 publisher: {}
 description: >-
   Cool project from Chris Dave and The Drumhedz Coming soon to a stereo near
   you!!
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
